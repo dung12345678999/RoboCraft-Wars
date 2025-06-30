@@ -242,6 +242,7 @@ inmobi.com, f0f631ccf1af490eb383caf0590806d8, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 instal.com, 5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644, RESELLER
 ironsrc.com, [196900], DIRECT
+google.com, pub-9725724793820907, DIRECT, f08c47fec0942fa0
 kidoz.net, 19692013, RESELLER
 kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
